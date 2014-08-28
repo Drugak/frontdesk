@@ -56,6 +56,7 @@ Community driven list of useful things for front end developers. [How to contrib
 - [lorempixel](http://lorempixel.com)
 - [Sprite generator](http://spritepad.wearekiss.com)
 - [Favicon generator](http://www.favicon.cc)
+- [Base64 generator](http://www.base64-image.de/)
 
 ## JS
 - [XML to JSON](XML to JSON http://jsontoxml.utilities-online.info)
